@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcarusCan. You can call me @Can.
 - 👀 I’m interested in guitar and anime.
-- 🌱 I’m currently learning Solidyty language. I'm totally a newbie.
+- 🌱 I’m currently learning Solidity language. I'm totally a newbie.
 - 💞️ I’m looking to collaborate on any kind of Blockchain develop project.
 - 📫 You can DM me through Telegram https://t.me/CanVy
 
